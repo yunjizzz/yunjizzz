@@ -17,37 +17,3 @@
     <img src="badges/yunjigo92-gmail-com.svg"/></a>
 </p>
 
-<h3>Languages</h3>
-<p>
-  <img src="badges/java.svg"/>
-  <img src="badges/kotlin.svg"/>
-  <img src="badges/typescript.svg"/>
-</p>
-
-<h3>Backend</h3>
-<p>
-  <img src="badges/spring-boot.svg"/>
-  <img src="badges/spring-webflux.svg"/>
-  <img src="badges/spring-data-jpa.svg"/>
-  <img src="badges/nestjs.svg"/>
-</p>
-
-<h3>Data · Messaging</h3>
-<p>
-  <img src="badges/mysql.svg"/>
-  <img src="badges/redis.svg"/>
-  <img src="badges/oracle.svg"/>
-  <img src="badges/mongodb.svg"/>
-  <img src="badges/apache-cassandra.svg"/>
-  <img src="badges/elasticsearch.svg"/>
-  <img src="badges/apache-kafka.svg"/>
-</p>
-
-<h3>Infra · Ops</h3>
-<p>
-  <img src="badges/docker.svg"/>
-  <img src="badges/aws.svg"/>
-  <img src="badges/kubernetes.svg"/>
-  <img src="badges/gitlab-ci.svg"/>
-  <img src="badges/argo-cd.svg"/>
-</p>
