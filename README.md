@@ -1,6 +1,6 @@
-<h2>👋 안녕하세요, 9년 차 백엔드 개발자 고윤지입니다</h2>
+<h2>👋 윤복이네 실험실</h2>
 <p>
-버티는 구조를 만들고, 그 이유를 기록합니다.<br>
+9년 차 백엔드 개발자 고윤지입니다. 버티는 구조를 만들고, 그 이유를 기록합니다.<br>
 통신 · OTT · 모빌리티 · 보험 도메인을 거치며 <b>외부 연동이 많은 서비스가 장애에도 버티는 구조</b>를 만들어 왔습니다.
 </p>
 
@@ -15,22 +15,12 @@
 <p>
  <a href="https://haebom.app/resume/" target="_blank">
     <img src="badges/resume.svg"/></a>
- <a href="https://haebom.app/resume/resume.pdf" target="_blank">
-    <img src="badges/pdf.svg"/></a>
 </p>
 
 <h3>Contact</h3>
 <p>
  <a href="mailto:yunjigo92@gmail.com" target="_blank">
     <img src="badges/yunjigo92-gmail-com.svg"/></a>
-</p>
-
-<h3>Blog</h3>
-<p>
- <a href="https://goyunji.tistory.com/" target="_blank">
-    <img src="badges/tech-blog.svg"/></a>
- <a href="https://yoginhae.com/" target="_blank">
-   <img src="badges/git-blog.svg"/></a>
 </p>
 
 <h3>Languages</h3>
@@ -67,11 +57,3 @@
   <img src="badges/gitlab-ci.svg"/>
   <img src="badges/argo-cd.svg"/>
 </p>
-
-
-### Recently posts
-<!-- BLOG-POST-LIST:START -->
-- [국내외 IT 기술 블로그 모음집&lpar;ver2024&rpar;](https://yunbok.com/dev-site/)
-- [JSON Viewer&lpar;minify, pretty, download&rpar;](https://yunbok.com/json-viewer-pretty-minify/)
-- [로또 예상 번호 생성기](https://yunbok.com/lotto/)
-<!-- BLOG-POST-LIST:END -->
